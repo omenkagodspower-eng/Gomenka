@@ -11,3 +11,14 @@ print(f'{message} {age}{apochi}')
 age = 23
 message = "Happy " + str(age) + "rd Birthday!"
 print(message)
+
+#favorite number
+favorite_number = 8
+message = "My favorite number is"
+print(f"{message}, {favorite_number}")
+print(message , favorite_number)
+
+print(5 + 3)
+print(4 * 2)
+print(24 / 3)
+print(12 - 4)
